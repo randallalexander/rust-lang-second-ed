@@ -1,0 +1,6 @@
+[package]
+name = "ownershipex"
+version = "0.1.0"
+authors = ["Randall Alexander <nospan@nospam>"]
+
+[dependencies]
