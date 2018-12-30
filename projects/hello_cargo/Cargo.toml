@@ -1,6 +1,0 @@
-[package]
-name = "hello_cargo"
-version = "0.1.0"
-authors = ["Randall Alexander <nospam@nospam.com>"]
-
-[dependencies]
